@@ -6,7 +6,7 @@ You can create, edit and delete them as you wish.
 Below you will find the link to our page:
 
 
-Our super character manager: [Character Manager](https://lynerah.github.io/character-manager/).
+Our character manager: [Character Manager](https://lynerah.github.io/character-manager/).
 
 For this job, we had to follow some guidelines.
 
